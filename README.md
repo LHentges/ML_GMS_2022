@@ -14,4 +14,5 @@ Rough timetable for sessions on 2nd Dec and 5th Dec
 | 11:15-12:30pm  | Intro and data setup  |
 | 12:30-1:30pm  | Lunch  |
 | 1:30-3pm  | Build training loop  |
-| 3-4:30pm  | Finish model and discussion  |
+| 3-3:15pm  | More coffee  |
+| 3:15-4:30pm  | Finish model and discussion  |
